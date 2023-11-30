@@ -1,0 +1,36 @@
+#area1{
+	width: 100%;
+  	height: 200px;
+  	background-color: dodgerblue;
+  	padding-top: 10px;
+  	}
+
+#palacio{
+	width: 580px;
+	height: 580px;
+	margin: 10px;
+	border: 1px solid #000000;
+}
+
+#area2{
+	width: 580px;
+	height: 150px;
+	background-color: dodgerblue;
+	margin: 20px;
+	padding: 10px;
+}
+
+#catedral{
+	width: 580px;
+	height: 580px;
+	margin: 10px;
+	border: 1px solid #000000;
+}
+
+#area3{
+	width: 580px;
+	height: 150px;
+	margin: 20px;
+	background-color: hotpink;
+	padding: 10px;
+}
